@@ -1,0 +1,25 @@
+# Dependências frontend
+node_modules/
+dist/
+
+# Ambiente virtual Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Dados locais
+data/*.csv
+
+# Variáveis de ambiente
+.env
+.env.*
+!.env.example
+
+# Sistema e editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Logs
+*.log
